@@ -37,5 +37,3 @@ end
 def retrieve_last_element_from_array(array)
   last_element = array[-1]
 end
-
-
