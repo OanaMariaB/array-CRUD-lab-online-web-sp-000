@@ -3,7 +3,6 @@ def create_an_empty_array
 end
 
 array = ["I", "am", "really", "learning"]
-element = ["wow", "arrays!"]
 
 def create_an_array
   my_array = ["apples", "grapes", "bananas", "plums"]
